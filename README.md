@@ -14,3 +14,4 @@
 12. <a href="https://github.com/ValentineFernandes/Java-Coding-Questions/blob/main/second.java">Write a Java Program to find the second-highest number in an array.</a>
 13. <a href="https://github.com/ValentineFernandes/Java-Coding-Questions/blob/main/Armstrong.java">Write a Java Program to check Armstrong number.</a>
 14. <a href="https://github.com/ValentineFernandes/Java-Coding-Questions/blob/main/whitespace.java">Write a Java Program to remove all white spaces from a string with using replace().</a>
+15. <a href="https://github.com/ValentineFernandes/Java-Coding-Questions/blob/main/white.java">Write a Java Program to remove all white spaces from a string without using replace().</a>
