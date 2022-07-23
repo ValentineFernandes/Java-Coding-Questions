@@ -11,3 +11,4 @@
 9. <a href="https://github.com/ValentineFernandes/Java-Coding-Questions/blob/main/fibonacci.java">Write a Java Program for the Fibonacci series.</a>
 10. <a href="https://github.com/ValentineFernandes/Java-Coding-Questions/blob/main/loops.java">Write a Java Program to iterate ArrayList using for-loop, while-loop, and advance for-loop.</a>
 11. <a href="https://github.com/ValentineFernandes/Java-Coding-Questions/blob/main/duplicatecharacters.java">Write a Java Program to find the duplicate characters in a string.</a>
+12. <a href="https://github.com/ValentineFernandes/Java-Coding-Questions/blob/main/second.java">Write a Java Program to find the second-highest number in an array.</a>
