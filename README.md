@@ -9,3 +9,4 @@
 7. <a href="https://github.com/ValentineFernandes/Java-Coding-Questions/blob/main/prime.java">Write a Java Program to find whether a number is prime or not.</a>
 8. <a href="https://github.com/ValentineFernandes/Java-Coding-Questions/blob/main/palindrome.java">Write a Java Program to find whether a string or number is palindrome or not.</a>
 9. <a href="https://github.com/ValentineFernandes/Java-Coding-Questions/blob/main/fibonacci.java">Write a Java Program for the Fibonacci series.</a>
+10. <a href="https://github.com/ValentineFernandes/Java-Coding-Questions/blob/main/loops.java">Write a Java Program to iterate ArrayList using for-loop, while-loop, and advance for-loop.</a>
