@@ -8,3 +8,4 @@
 6. <a href="https://github.com/ValentineFernandes/Java-Coding-Questions/blob/main/hash.java">Write a Java Program to iterate HashMap using While and advance for loop.</a>
 7. <a href="https://github.com/ValentineFernandes/Java-Coding-Questions/blob/main/prime.java">Write a Java Program to find whether a number is prime or not.</a>
 8. <a href="https://github.com/ValentineFernandes/Java-Coding-Questions/blob/main/palindrome.java">Write a Java Program to find whether a string or number is palindrome or not.</a>
+9. <a href="https://github.com/ValentineFernandes/Java-Coding-Questions/blob/main/fibonacci.java">Write a Java Program for the Fibonacci series.</a>
